@@ -6,7 +6,9 @@
 }
 
 body{
-    background-color: rgb(206, 179, 231);
+    background-image: url("./fondo/LOGO 1.jfif");
+    background-position: center center;
+    background-size: cover;
 }
 
 .row.g-3.needs-validation{
@@ -43,3 +45,6 @@ body{
     margin-left: 3rem;
 }
 
+.btn btn-primary{
+    width: 100%; 
+}
